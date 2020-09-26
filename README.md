@@ -1,1 +1,2 @@
 # Chocolate-Chip-Cookies
+This recipe is a rich dessert with amazing chocolate flavor. No matter who you give it to, you will always find a positive response from whoever ate it. After reading the recipe from the 'recipe.md" file, it will only take half-an-hour to make. After that, enjoy!
